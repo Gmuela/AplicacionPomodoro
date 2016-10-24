@@ -1,6 +1,8 @@
 # Aplicación Pomodoro
 Una aplicación realizada en el curso Desarrollo de Aplicaciones con Tecnología Web.
 
+![Imagen de la aplicación](https://raw.githubusercontent.com/Gmuela/AplicacionPomodoro/master/pemedere.png)
+
 # Notas a tener en cuenta
 Se trata de una práctica, no de una aplicación profesional. Solo ha sido probada con las siguientes especificaciones y 
 si alguna de ellas no se cumple dará lugar a errores visuales o de funcionamiento.
