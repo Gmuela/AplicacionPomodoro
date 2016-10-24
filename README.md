@@ -17,4 +17,4 @@ La técnica usa un reloj para dividir el tiempo dedicado a un trabajo en interva
 
 El método se basa en la idea de que las pausas frecuentes pueden mejorar la agilidad mental y trata de ofrecer una respuesta eficaz frente al tiempo, en lugar del estado de ansiedad que suele provocar el "devenir" del tiempo, del que se habla en los escritos de Henri Bergson y Eugene Minkowski.
 
-Fuente: [Wikipedia: Técnoca Pomodoro](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro)
+Fuente: [Wikipedia: Técnica Pomodoro](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro)
