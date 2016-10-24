@@ -6,3 +6,5 @@ Se trata de una práctica, no de una aplicación profesional. Solo ha sido proba
 si alguna de ellas no se cumple dará lugar a errores visuales o de funcionamiento.
 - Google Chrome Versión 53.0.2785.143 m
 - Resolución de 1366 x 768
+
+**Código abierto a futuras mejoras**
